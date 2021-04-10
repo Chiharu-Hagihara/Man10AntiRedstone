@@ -1,0 +1,4 @@
+name: Man10AntiRedstone
+version: @version@
+main: red.man10.man10antiredstone.Man10AntiRedstone
+api-version: 1.16
